@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/lucasdaher/social-links-profile](https://github.com/lucasdaher/social-links-profile)
-- Live Site URL: [lucasdaher-social-profile-links.netlify.app](lucasdaher-social-profile-links.netlify.app)
+- Live Site URL: [https://lucasdaher-social-profile-links.netlify.app](https://lucasdaher-social-profile-links.netlify.app)
 
 ## My process
 I started the project developing all the HTML part. After completion, I moved on to the styling of the project, which wasn't too complicated. I used flexbox to align all the content and buttons on the page.
